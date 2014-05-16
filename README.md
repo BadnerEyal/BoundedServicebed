@@ -3,7 +3,7 @@ BoundedServicebed
 
 An example of incorrect application of service connection 
 
-That the author get access to all services, not just functions 
+That the connected person get access to all services, not just functions 
 
 We want to give it a run 
 
@@ -13,13 +13,11 @@ Correct solution is to write a contract so
 
 Who is connected to receive only those functions that we want to give him a contract
 
-
-
 BoundedServicebed
 
 דוגמא לא נכונה של בקשת של חיבור לשירות
 
-כי המחבר מקבל גישה לכל השירות ולא רק לפונקציות
+כי מי שמחובר מקבל גישה לכל השירות ולא רק לפונקציות
 
 שאנו רוצים לתת לו להפעיל 
 
